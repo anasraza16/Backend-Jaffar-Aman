@@ -1,0 +1,19 @@
+Node.js
+
+1, npm init / npm init -y (ON MAIN FOLDER)
+
+2, configure package.json
+
+"type" : "module",
+"main" : "server.js"
+
+scripts
+"start" : "node server.js"
+
+3, npm start on terminal vsCode Internal or External (cmd)
+to see a new changes in code
+
+IIFE (Immediately Invoked Function Expression) ( code ) ()
+
+4, import fs from "fs"
+it is a built in method of node.js to create files and read files using it with call back function
